@@ -1,0 +1,12 @@
+{
+  "name": "winadmin",
+  "version": "1.0.0",
+  "description": "1, npm i 2, npm run dev",
+  "scripts": {
+    "dev": "http-server ./src -p 8090 -o"
+  },
+  "author": "rocching",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
